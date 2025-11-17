@@ -1,0 +1,11 @@
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\bin\Debug\net8.0\app.distriGranadaJuan.common.deps.json
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\bin\Debug\net8.0\app.distriGranadaJuan.common.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\bin\Debug\net8.0\app.distriGranadaJuan.common.pdb
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.AssemblyInfoInputs.cache
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.AssemblyInfo.cs
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.csproj.CoreCompileInputs.cache
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\refint\app.distriGranadaJuan.common.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\app.distriGranadaJuan.common.pdb
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.common\obj\Debug\net8.0\ref\app.distriGranadaJuan.common.dll

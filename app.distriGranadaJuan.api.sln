@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.distriGranadaJuan.api", "app.distriGranadaJuan.api\app.distriGranadaJuan.api.csproj", "{461CF49E-C084-4295-906E-A4FA17243238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.distriGranadaJuan.services", "app.distriGranadaJuan.services\app.distriGranadaJuan.services.csproj", "{C6FB1E67-887F-4846-891B-717B7622E799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.distriGranadaJuan.dataAccess", "app.distriGranadaJuan.dataAccess\app.distriGranadaJuan.dataAccess.csproj", "{FB26EACA-A296-4BF1-ADC7-7816F840F1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.distriGranadaJuan.entities", "app.distriGranadaJuan.entities\app.distriGranadaJuan.entities.csproj", "{F2618482-6AB4-49B2-A47F-ACD3202F5C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.distriGranadaJuan.common", "app.distriGranadaJuan.common\app.distriGranadaJuan.common.csproj", "{66BF6811-5842-45C4-B1BB-527DA18426C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461CF49E-C084-4295-906E-A4FA17243238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461CF49E-C084-4295-906E-A4FA17243238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461CF49E-C084-4295-906E-A4FA17243238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461CF49E-C084-4295-906E-A4FA17243238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FB1E67-887F-4846-891B-717B7622E799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FB1E67-887F-4846-891B-717B7622E799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FB1E67-887F-4846-891B-717B7622E799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FB1E67-887F-4846-891B-717B7622E799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB26EACA-A296-4BF1-ADC7-7816F840F1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB26EACA-A296-4BF1-ADC7-7816F840F1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB26EACA-A296-4BF1-ADC7-7816F840F1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB26EACA-A296-4BF1-ADC7-7816F840F1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2618482-6AB4-49B2-A47F-ACD3202F5C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2618482-6AB4-49B2-A47F-ACD3202F5C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2618482-6AB4-49B2-A47F-ACD3202F5C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2618482-6AB4-49B2-A47F-ACD3202F5C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BF6811-5842-45C4-B1BB-527DA18426C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF6811-5842-45C4-B1BB-527DA18426C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF6811-5842-45C4-B1BB-527DA18426C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF6811-5842-45C4-B1BB-527DA18426C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A895530C-6B8B-4A0D-8F17-B296F730072D}
+	EndGlobalSection
+EndGlobal

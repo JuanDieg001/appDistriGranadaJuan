@@ -1,0 +1,15 @@
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\bin\Debug\net8.0\app.distriGranadaJuan.dataAccess.deps.json
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\bin\Debug\net8.0\app.distriGranadaJuan.dataAccess.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\bin\Debug\net8.0\app.distriGranadaJuan.dataAccess.pdb
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.AssemblyInfoInputs.cache
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.AssemblyInfo.cs
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.csproj.CoreCompileInputs.cache
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\refint\app.distriGranadaJuan.dataAccess.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.pdb
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\ref\app.distriGranadaJuan.dataAccess.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\bin\Debug\net8.0\app.distriGranadaJuan.entities.dll
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\bin\Debug\net8.0\app.distriGranadaJuan.entities.pdb
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.distriGranadaJuan.dataAccess.csproj.AssemblyReference.cache
+C:\appdistri\codeSource\app.distriGranadaJuan.api\app.distriGranadaJuan.dataAccess\obj\Debug\net8.0\app.dist.3377955F.Up2Date
