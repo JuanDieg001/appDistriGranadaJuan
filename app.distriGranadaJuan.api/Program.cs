@@ -1,5 +1,11 @@
+using app.distriGranadaJuan.common.EventMQ;
 using app.distriGranadaJuan.dataAccess.context;
+using app.distriGranadaJuan.dataAccess.repositories;
+using app.distriGranadaJuan.services.EventMQ;
+using app.distriGranadaJuan.services.Implementations;
+using app.distriGranadaJuan.services.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,8 +27,35 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.LogTo(Console.WriteLine, LogLevel.Information).EnableSensitiveDataLogging();
 });
 
+// ---------------------------
+// RABBITMQ
+// ---------------------------
+builder.Services.Configure<RabbitMQSettings>(
+    builder.Configuration.GetSection("rabbitmq"));
 
+builder.Services.AddSingleton<IRabbitMQService, RabbitMQService>();
 
+// ---------------------------
+// SERVICIOS Y REPOSITORIOS
+// ---------------------------
+
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+
+builder.Services.AddScoped<IClienteService, ClienteService>();
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+
+builder.Services.AddScoped<IProductoService, ProductoService>();
+builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
+
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+builder.Services.AddScoped<IVentaService, VentaService>();
+builder.Services.AddScoped<IVentaRepository, VentaRepository>();
+
+builder.Services.AddScoped<IVentaDetalleService, VentaDetalleService>();
+builder.Services.AddScoped<IVentaDetalleRepository, VentaDetalleRepository>();
 
 
 

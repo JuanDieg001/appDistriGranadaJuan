@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\app.distriGranadaJuan.dataAccess\app.distriGranadaJuan.dataAccess.csproj" />
+    <ProjectReference Include="..\app.distriGranadaJuan.services\app.distriGranadaJuan.services.csproj" />
   </ItemGroup>
 
 </Project>
